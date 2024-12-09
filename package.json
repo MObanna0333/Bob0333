@@ -1,0 +1,17 @@
+{
+  "name": "enhanced-calculator",
+  "version": "1.0.0",
+  "description": "A calculator with simple, scientific operations and special keys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "mathjs": "^9.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "author": "Mohamed Elbanna",
+  "license": "MIT"
+}
