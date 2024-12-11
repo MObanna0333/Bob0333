@@ -4,7 +4,8 @@
   "description": "A calculator with simple, scientific operations and special keys.",
   "main": "index.js",
   "scripts": {
-    "start": "live-server"
+    "start": "live-server", 
+    "build": "echo 'This project does not require a build step.'"
   },
   "dependencies": {
     "mathjs": "^9.4.4"
